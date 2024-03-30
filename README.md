@@ -4,6 +4,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ixxeL2097&show_icons=true&theme=onedark&hide=stars" />
 </a>
 
+## I'm Spiers Frederic, a Platform/SRE/DevOps Engineer from Lille, France
+
+- 🔭 I’m currently working on ...
+  - ... Improving my lab the GitOps way
+  - ... Crossplane provisionning
+  - ... Optimizin Kubernetes app delivery
+- 👯 I’m looking to collaborate on ...
+  - ... Improving my lab the GitOps way
 <!--
 **ixxeL2097/ixxeL2097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
