@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://github.com/ixxeL2097">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ixxeL2097&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ixxeL2097&layout=compact&theme=codeSTACKr" />
 </a>
 
 ## I'm Spiers Frederic, a Platform/SRE/DevOps Engineer from Lille, France
